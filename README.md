@@ -6,6 +6,8 @@ It also has ViaFabricPlus so you can even join old Beta Servers. Isn't that grea
 
 Don't forget that this modpack is an unofficial heavily edited version of [1:1 Beta](https://modrinth.com/modpack/1to1-beta).
 
+Link to the Modrinth Version: https://modrinth.com/modpack/pretty-accurate-beta
+
 Difference between the Quilt and Fabric Version
 -
 ![Tabelle](images/table.png)
