@@ -1,1 +1,1 @@
-.
+![Beschreibung](images/logo.png)
