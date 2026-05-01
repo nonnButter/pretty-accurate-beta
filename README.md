@@ -8,6 +8,6 @@ Don't forget that this modpack is an unofficial heavily edited version of [1:1 B
 
 Link to the Modrinth Version: https://modrinth.com/modpack/pretty-accurate-beta
 
-Difference between the Quilt and Fabric Version
+Difference between the Fabric and Quilt Version
 -
 ![Tabelle](images/table.png)
